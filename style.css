@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+  background-color: gray;
+  padding: 5px;
+  margin: 3px;
+  border: 2px solid green;
+}
+.box2{
+  background-color: #831A7C;
+  padding: 4px;
+  margin: 3px;
+  border: 3px solid aqua;
+}
